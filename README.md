@@ -7,6 +7,3 @@ https://wonderwords.readthedocs.io/en/latest/quickstart.html#the-randomsentence-
 3. Run `docker-compose up` to spin up Kafka broker
 4. Run `python3 sentences_producer.py` to run the producer to produce data
 5. Run `python3 analytics.py` to get the data stream from Kafka and run the sentiment analysis
-
-![alt text](image.png)
-
